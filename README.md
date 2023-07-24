@@ -21,7 +21,7 @@
 
   <p>
     🇵🇹 A versatile developer from Portugal, based in London. 🇬🇧 <br> <br>
-    Computer Science Undergraduate Student <br>
-    @ <strong>Cardiff University</strong> <br>
+    Computer Science Graduate <br>
+    from <strong>Cardiff University</strong> <br>
   </p>
 </div>
