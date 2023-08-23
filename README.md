@@ -3,7 +3,6 @@
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/enriquepaulino/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"     alt="LinkedIn Badge"/></a>
-    <a href="https://twitter.com/enrpau"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   </div>
   <a href="#"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fenrique-paulino&label=Visitors&countColor=%23007ec6&style=flat-square&labelStyle=upper" /></a>
   
