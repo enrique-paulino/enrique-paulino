@@ -11,5 +11,4 @@
 
 <div id="about-me" align="center">
   <h3>Generalist developer from Portugal, based in London.</h3>
-  <p>📫 Reach me on <strong><a href="https://www.linkedin.com/in/enriquepaulino/">Linkedin</a></strong></p>
 </div>
